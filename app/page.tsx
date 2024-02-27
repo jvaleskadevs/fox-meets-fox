@@ -10,7 +10,7 @@ const frameMetadata = getFrameMetadata({
     }
   ],
   image: {
-    src: HOST_URL + '/fox_meeting.png',
+    src: HOST_URL + '/fmf.png',
     aspectRatio: '1:1'
   },
   postUrl: HOST_URL + '/api/frame/fmf'
@@ -18,7 +18,7 @@ const frameMetadata = getFrameMetadata({
 
 const title = 'DegentleFox meets DegentleFox';
 const description = 'Farcaster frame for easy meeting other members of the DegentleFox Based Club';
-const images = [HOST_URL + '/fox_meeting.png'];
+const images = [HOST_URL + '/fmf.png'];
 
 export const metadata: Metadata = {
   title,
