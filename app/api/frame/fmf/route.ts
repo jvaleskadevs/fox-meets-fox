@@ -7,7 +7,7 @@ type FName = {
   image: string;
 }
 
-const HOST_URL = 'http://fox-meets-fox.vercel.app';
+const HOST_URL = 'https://fox-meets-fox.vercel.app';
 
 async function getResponse(req: NextRequest): Promise<NextResponse> {
   let fid = 0;
