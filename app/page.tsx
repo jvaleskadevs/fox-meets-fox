@@ -1,7 +1,7 @@
 import { getFrameMetadata } from '@coinbase/onchainkit';
 import type { Metadata } from 'next';
 
-const HOST_URL = 'http://fox-meets-fox.vercel.app';
+const HOST_URL = 'https://fox-meets-fox.vercel.app';
 
 const frameMetadata = getFrameMetadata({
   buttons: [
