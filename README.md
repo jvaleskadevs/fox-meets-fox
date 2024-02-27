@@ -1,2 +1,2 @@
-# wowow-faucet
-The wowow-faucet is a farcaster frame that allows holders of wowow cow, wowow party and wowow room to claim the wowow token daily.
+# fox-meets-fox
+DegentleFox meets DegentleFox is a Farcaster frame for easy meeting other members of the DegentleFox Based Club
